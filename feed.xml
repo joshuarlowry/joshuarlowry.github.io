@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JLO&#39;s Code Palace</title>
-    <description>The code palace of JLO.
+    <title>Joshua R Lowry</title>
+    <description>Developer turned designer. 
 </description>
     <link>http://joshualowry.com/</link>
     <atom:link href="http://joshualowry.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Jun 2015 03:15:57 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Jun 2015 03:15:57 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2015 18:56:02 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2015 18:56:02 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Nothing to see here yet.</title>
-        <description>&lt;p&gt;I am currently in the migration process. Please come back later.&lt;/p&gt;
+        <title>New Beginnings: Develop Design</title>
+        <description>&lt;p&gt;Since before I got my first computer, my family knew that I would choose a career in computing. It wasn’t until I decided on a degree in Computer Science that they realized how deep that would go. Since 2009, I have been designing/developing/testing software for my  job. A few years ago I was talking with one of my mentors and pondering why it was that we didn’t have a center of experts within the group who focus on Human Computer Interaction or even bigger, User Experience Design. The opportunity to break through into the UX space has finally arrived for us, and I will soon be embarking on a journey from Developer to Designer.&lt;/p&gt;
 
-&lt;p&gt;But, you had to click the post link anyway. Were you testing?&lt;/p&gt;
+&lt;p&gt;I recently had the opportunity to go to the &lt;a href=&quot;http://uxpa2015.org/&quot;&gt;User Experience Professionals 2015 Conference&lt;/a&gt; in San Diego/Coronoado Bay, California. It was there that I discovered that there is an amazing group of people doing things that I had only dreamed of. Many companies have gone through the same transformation, but by different means leaving me with a wealth of knowledge to build upon. Seeing their success makes me hopeful that we can grow our user-centered focus and ultimately bring delight to our users.&lt;/p&gt;
+
 </description>
-        <pubDate>Wed, 03 Jun 2015 02:34:30 +0000</pubDate>
-        <link>http://joshualowry.com/nothing/2015/06/03/welcome.html</link>
-        <guid isPermaLink="true">http://joshualowry.com/nothing/2015/06/03/welcome.html</guid>
+        <pubDate>Tue, 25 Aug 2015 06:00:00 +0000</pubDate>
+        <link>http://joshualowry.com/nothing/2015/08/25/NewBeginnings.html</link>
+        <guid isPermaLink="true">http://joshualowry.com/nothing/2015/08/25/NewBeginnings.html</guid>
         
         
         <category>nothing</category>
